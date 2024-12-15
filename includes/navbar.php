@@ -5,11 +5,11 @@
 <nav>
         <button class="menu-toggle" onclick="toggleMenu()">☰</button>
         <div class="nav-links">
-            <a href="index.php">Accueil</a>
-            <a href="src/events.php">Programme</a>
-            <a href="src/concert.php">Concerts</a>
-            <a href="src/partner.php">Partenaires</a>
-            <a href="src/faq.php">FAQ</a>
+            <a href="/index.php">Accueil</a>
+            <a href="/src/events.php">Programme</a>
+            <a href="/src/concert.php">Concerts</a>
+            <a href="/src/partner.php">Partenaires</a>
+            <a href="/src/faq.php">FAQ</a>
         </div>
     </nav>
     <script>
