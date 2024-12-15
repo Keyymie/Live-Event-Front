@@ -1,0 +1,269 @@
+{
+    "events": [
+        {
+            "id": 9,
+            "global_id": "localhost\/wordpress?id=9",
+            "global_id_lineage": [
+                "localhost\/wordpress?id=9"
+            ],
+            "author": "1",
+            "status": "publish",
+            "date": "2024-04-18 13:44:00",
+            "date_utc": "2024-04-18 11:44:00",
+            "modified": "2024-04-18 13:44:00",
+            "modified_utc": "2024-04-18 11:44:00",
+            "url": "http:\/\/localhost\/wordpress\/event\/tiriak\/",
+            "rest_url": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/events\/9",
+            "title": "Tiriak",
+            "description": "",
+            "excerpt": "",
+            "slug": "tiriak",
+            "image": false,
+            "all_day": false,
+            "start_date": "2024-05-06 10:00:00",
+            "start_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "06",
+                "hour": "10",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "end_date": "2024-05-06 19:00:00",
+            "end_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "06",
+                "hour": "19",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "utc_start_date": "2024-05-06 08:00:00",
+            "utc_start_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "06",
+                "hour": "08",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "utc_end_date": "2024-05-06 17:00:00",
+            "utc_end_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "06",
+                "hour": "17",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "timezone": "Europe\/Paris",
+            "timezone_abbr": "CEST",
+            "cost": "",
+            "cost_details": {
+                "currency_symbol": "",
+                "currency_code": "",
+                "currency_position": "prefix",
+                "values": []
+            },
+            "website": "",
+            "show_map": true,
+            "show_map_link": true,
+            "hide_from_listings": false,
+            "sticky": false,
+            "featured": false,
+            "categories": [
+                {
+                    "name": "Concert",
+                    "slug": "concert",
+                    "term_group": 0,
+                    "term_taxonomy_id": 4,
+                    "taxonomy": "tribe_events_cat",
+                    "description": "",
+                    "parent": 0,
+                    "count": 2,
+                    "filter": "raw",
+                    "id": 4,
+                    "urls": {
+                        "self": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/categories\/4",
+                        "collection": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/categories"
+                    }
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Rock",
+                    "slug": "rock",
+                    "term_group": 0,
+                    "term_taxonomy_id": 5,
+                    "taxonomy": "post_tag",
+                    "description": "",
+                    "parent": 0,
+                    "count": 1,
+                    "filter": "raw",
+                    "id": 5,
+                    "urls": {
+                        "self": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/tags\/5",
+                        "collection": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/tags"
+                    }
+                }
+            ],
+            "venue": {
+                "id": 10,
+                "author": "1",
+                "status": "publish",
+                "date": "2024-04-18 13:44:00",
+                "date_utc": "2024-04-18 11:44:00",
+                "modified": "2024-04-18 13:44:00",
+                "modified_utc": "2024-04-18 11:44:00",
+                "url": "http:\/\/localhost\/wordpress\/lieu\/festival-neuneu\/",
+                "venue": "FESTIVAL NEUNEU",
+                "slug": "festival-neuneu",
+                "address": "Pelouse de la Muette Porte de Paris",
+                "city": "PARIS",
+                "country": "France",
+                "zip": "75016",
+                "show_map": true,
+                "show_map_link": true,
+                "global_id": "localhost\/wordpress?id=10",
+                "global_id_lineage": [
+                    "localhost\/wordpress?id=10"
+                ]
+            },
+            "organizer": []
+        },
+        {
+            "id": 13,
+            "global_id": "localhost\/wordpress?id=13",
+            "global_id_lineage": [
+                "localhost\/wordpress?id=13"
+            ],
+            "author": "1",
+            "status": "publish",
+            "date": "2024-04-18 13:57:13",
+            "date_utc": "2024-04-18 11:57:13",
+            "modified": "2024-04-18 13:57:35",
+            "modified_utc": "2024-04-18 11:57:35",
+            "url": "http:\/\/localhost\/wordpress\/event\/nasus\/",
+            "rest_url": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/events\/13",
+            "title": "Nasus",
+            "description": "",
+            "excerpt": "",
+            "slug": "nasus",
+            "image": false,
+            "all_day": false,
+            "start_date": "2024-05-07 11:00:00",
+            "start_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "07",
+                "hour": "11",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "end_date": "2024-05-08 20:00:00",
+            "end_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "08",
+                "hour": "20",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "utc_start_date": "2024-05-07 09:00:00",
+            "utc_start_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "07",
+                "hour": "09",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "utc_end_date": "2024-05-08 18:00:00",
+            "utc_end_date_details": {
+                "year": "2024",
+                "month": "05",
+                "day": "08",
+                "hour": "18",
+                "minutes": "00",
+                "seconds": "00"
+            },
+            "timezone": "Europe\/Paris",
+            "timezone_abbr": "CEST",
+            "cost": "",
+            "cost_details": {
+                "currency_symbol": "",
+                "currency_code": "",
+                "currency_position": "prefix",
+                "values": []
+            },
+            "website": "",
+            "show_map": true,
+            "show_map_link": true,
+            "hide_from_listings": false,
+            "sticky": false,
+            "featured": false,
+            "categories": [
+                {
+                    "name": "Concert",
+                    "slug": "concert",
+                    "term_group": 0,
+                    "term_taxonomy_id": 4,
+                    "taxonomy": "tribe_events_cat",
+                    "description": "",
+                    "parent": 0,
+                    "count": 2,
+                    "filter": "raw",
+                    "id": 4,
+                    "urls": {
+                        "self": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/categories\/4",
+                        "collection": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/categories"
+                    }
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Rap",
+                    "slug": "rap",
+                    "term_group": 0,
+                    "term_taxonomy_id": 6,
+                    "taxonomy": "post_tag",
+                    "description": "",
+                    "parent": 0,
+                    "count": 1,
+                    "filter": "raw",
+                    "id": 6,
+                    "urls": {
+                        "self": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/tags\/6",
+                        "collection": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/tags"
+                    }
+                }
+            ],
+            "venue": {
+                "id": 10,
+                "author": "1",
+                "status": "publish",
+                "date": "2024-04-18 13:44:00",
+                "date_utc": "2024-04-18 11:44:00",
+                "modified": "2024-04-18 13:44:00",
+                "modified_utc": "2024-04-18 11:44:00",
+                "url": "http:\/\/localhost\/wordpress\/lieu\/festival-neuneu\/",
+                "venue": "FESTIVAL NEUNEU",
+                "slug": "festival-neuneu",
+                "address": "Pelouse de la Muette Porte de Paris",
+                "city": "PARIS",
+                "country": "France",
+                "zip": "75016",
+                "show_map": true,
+                "show_map_link": true,
+                "global_id": "localhost\/wordpress?id=10",
+                "global_id_lineage": [
+                    "localhost\/wordpress?id=10"
+                ]
+            },
+            "organizer": []
+        }
+    ],
+    "rest_url": "http:\/\/localhost\/wordpress\/wp-json\/tribe\/events\/v1\/events\/?page=1&per_page=10&start_date=2024-04-18 00:00:00&end_date=2026-04-18 23:59:59&status=publish",
+    "total": 2,
+    "total_pages": 1
+}
